@@ -8,7 +8,7 @@
 	},
 	"item": [
 		{
-			"name": "get books list",
+			"name": "get bookss list",
 			"request": {
 				"method": "GET",
 				"header": [],
