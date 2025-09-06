@@ -164,7 +164,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n  \"title\": \"my first book\",\r\n  \"author\": \"Thanh Chang\",\r\n  \"genre\": \"story\",\r\n  \"yearPublished\": 2020\r\n}",
+					"raw": "{\r\n  \"title\": \"my first book\",\r\n  \"author\": \"Thanh Thang\",\r\n  \"genre\": \"story\",\r\n  \"yearPublished\": 2020\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
